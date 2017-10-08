@@ -1,9 +1,10 @@
 # tinder-swipe-script
 like everyone on tinder by simply downloading and running the [script](https://github.com/Kevin-De-Koninck/tinder-swipe-script/blob/master/TinderBot.scpt?raw=true).
 
-# Speed
-It likes 2 profiles every second (7200 likes each hour). You could change the delay between each swipe (to 0.1s) to achieve a swipe speed of 3 swipes per second (>10.000 swipes per hour).
-Faster than this is impossible on my system because the profiles do not load any faster than that.
+# Human like
+1. It likes every profile, but waits between 0.3 and 3s between each like.
+2. 1 in about 3 profiles, it will open the profile to see more info.
+3. When a profile opens, it swipes between the pictures, 1 to 4 times and waits 0.5 to 2s between each swipe.
 
 # Preconditions
 - You must use a macOS system (It's written in Applescript)
